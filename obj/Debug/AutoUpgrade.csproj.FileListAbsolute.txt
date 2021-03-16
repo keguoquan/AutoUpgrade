@@ -1,0 +1,16 @@
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\bin\Debug\AutoUpgrade.exe
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\bin\Debug\AutoUpgrade.pdb
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpdate.FrmUpdate.resources
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpgrade.Properties.Resources.resources
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpgrade.csproj.GenerateResource.Cache
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpgrade.exe
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpgrade.pdb
+E:\XHY\CloudMC\src\CloudMC\ClientPlug\AutoUpgrade\obj\Debug\AutoUpgrade.csprojResolveAssemblyReference.cache
+E:\Git\AutoUpgrade\obj\Debug\AutoUpgrade.exe
+E:\Git\AutoUpgrade\obj\Debug\AutoUpgrade.pdb
+E:\Git\AutoUpgrade\bin\Debug\AutoUpgrade.exe
+E:\Git\AutoUpgrade\bin\Debug\AutoUpgrade.pdb
+E:\Git\AutoUpgrade\obj\Debug\AutoUpgrade.csprojResolveAssemblyReference.cache
+E:\Git\AutoUpgrade\obj\Debug\AutoUpdate.FrmUpdate.resources
+E:\Git\AutoUpgrade\obj\Debug\AutoUpgrade.Properties.Resources.resources
+E:\Git\AutoUpgrade\obj\Debug\AutoUpgrade.csproj.GenerateResource.Cache
